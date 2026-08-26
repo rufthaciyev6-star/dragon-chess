@@ -54,7 +54,8 @@ button{
 </style>
 </head>
 
-<body>
+<body> 
+ <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 
 <div class="game">
 <h1>♟ Dragon Chess ♟</h1>
